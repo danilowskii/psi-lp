@@ -213,7 +213,7 @@ export default function Footer({ theme }) {
           <span>
             © 2025 Sofia Almeida Psicóloga. Todos os direitos reservados.
           </span>
-          <span>Desenvolvido com ❤️ por Studio Design</span>
+          <span>Desenvolvido por Danilo</span>
         </div>
       </div>
 
